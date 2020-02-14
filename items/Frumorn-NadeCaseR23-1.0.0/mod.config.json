@@ -1,0 +1,39 @@
+{
+	"name": "NadeCaseR23",
+	"author": "Frumorn",
+	"version": "1.0.0",
+	"license": "None",
+	"dependencies": {},
+    "res": {},
+    "src":{},
+	"db": {
+		"locales": {
+			"en": {
+				"templates": {
+					"NadeCase": "db/locales/en/templates/NadeCase.json"
+				}
+			}
+		},
+		"items": {
+			"NadeCase": "db/items/NadeCase.json"
+		},
+		"templates": {
+			"items": {
+				"NadeCase": "db/templates/items/NadeCase.json"
+			}
+		},
+		"assort": {
+			"ragfair": {
+				"items": {
+					"NadeCase": "db/assort/ragfair/items/NadeCase.json"
+					},
+				"barter": {
+					"NadeCase": "db/assort/ragfair/barter/NadeCase.json"
+				},
+				"level": {
+					"NadeCase": "db/assort/ragfair/level/NadeCase.json"
+				}
+			}
+		}
+	}
+}
