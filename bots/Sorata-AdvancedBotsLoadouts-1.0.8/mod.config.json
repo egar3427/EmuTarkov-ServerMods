@@ -3,6 +3,7 @@
   "author": "Sorata",
   "license": "None",
   "version": "1.0.8",
+  "dependencies": [],
   "db": {
     "bots": {
       "assault": {
