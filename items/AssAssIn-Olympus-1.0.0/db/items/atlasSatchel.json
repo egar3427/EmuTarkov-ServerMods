@@ -4,8 +4,8 @@
 	"_parent": "5448e53e4bdc2d60728b4567",
 	"_type": "Item",
 	"_props": {
-		"Name": "Atlas Satchel",
-		"ShortName": "Atlas Satchel",
+		"Name": "Atlas' Satchel",
+		"ShortName": "Atlas' Satchel",
 		"Description": "With Atlas' Satchel, you feel like you could carry the world on your back.",
 		"Weight": 2,
 		"BackgroundColor": "red",
