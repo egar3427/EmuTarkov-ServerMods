@@ -25,27 +25,20 @@
 				"index": 1
 			},
 			{
-				"target": "5e1cba5b14361d25614ccbaa",
+				"target": "5d34df2788a4504526796bd3",
 				"value": "1200",
 				"id": "5a28243486f7741da250b43f",
 				"type": "Item",
 				"index": 2,
 				"items": [
 					{
-						"_id": "5e1cba5b14361d25614ccbaa",
+						"_id": "5d34df2788a4504526796bd3",
 						"_tpl": "5696686a4bdc2da3298b456a",
 						"upd": {
 							"StackObjectsCount": 1200
 						}
 					}
 				]
-			},
-			{
-				"target": "5c0647fdd443bc2504c2d371",
-				"value": "-0.01",
-				"id": "5d7260c186f77417140d77b2",
-				"type": "TraderStanding",
-				"index": 3
 			}
 		],
 		"Fail": []

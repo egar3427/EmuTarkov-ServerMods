@@ -5,7 +5,7 @@
 	"image": "/files/quest/icon/594d246986f77427fc3b2fb4.jpg",
 	"type": "Elimination",
 	"isKey": false,
-	"restartable": false,
+	"restartable": true,
 	"min_level": 1,
 	"canShowNotificationsInGame": true,
 	"rewards": {
@@ -80,7 +80,7 @@
 			{
 				"_parent": "CounterCreator",
 				"_props": {
-					"value": "20",
+					"value": "15",
 					"type": "Elimination",
 					"counter": {
 						"id": "59ca2fba86f77445e4732b24",
