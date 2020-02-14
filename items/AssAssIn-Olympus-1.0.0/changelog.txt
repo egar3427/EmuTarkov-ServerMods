@@ -1,0 +1,20 @@
+changelog
+	1.0.0
+		Initial release.
+	1.1.0
+		Added atlasSatchel. Cleaned up read-me.
+	1.2.0
+		Added mags for guns privously not covered (non 545,556,76239,ash12,p90)
+		Changed apollosAdrenaline to apollosPropital to better fit description of healing. Removed Blackened limbs fix (see next)
+		Added apollosCMS which only fixes blackened limbs. 100 uses.
+		Changed moneyCase to be 10x10 internal.
+		Changed keytool to be 10x10 internal accept dogTags.
+		Changed SICC case to be 10x10 internal accept intelDocs.
+		Changed all ammo to stack to 1000. No changes were made to ammo stats.
+		Changed 'ExaminedByDefault' to true for all mod items.
+	1.2.1
+		GRAPHICAL UPDATE. Added/changed mags for each gun: SA-58 for instance does not look good using the hunter mag model or the SR-25 mag model.
+	1.2.2
+		Allowed AK101 and AK102 to accept the herc556 mag (nato round).
+	23.1.0
+		Converted to r23.
