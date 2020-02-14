@@ -16,5 +16,5 @@ changelog
 		GRAPHICAL UPDATE. Added/changed mags for each gun: SA-58 for instance does not look good using the hunter mag model or the SR-25 mag model.
 	1.2.2
 		Allowed AK101 and AK102 to accept the herc556 mag (nato round).
-	23.1.0
+	1.0.0
 		Converted to r23.
