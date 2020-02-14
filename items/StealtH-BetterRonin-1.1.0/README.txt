@@ -9,23 +9,16 @@ Removes speed penalty
 Changes the armour material to "Polymer" (the same stuff Killas armour is made out of)
 Allows you to use headphones with the Ronin
 
+Changelog:
+1.1.0 - updated the mod to work with R23
 
-Add the StealtH-BetterRonin folder to /server/user/mods
+
+Add the StealtH-BetterRonin-1.1.0 folder to /server/user/mods
 
 Then
 
-Just add this to your server config located in your /server/user folder and rechache :)
+Rechache :)
 
-
-
-			{
-				"name": "BetterRonin",
-				"author": "StealtH",
-				"version": "1.0.0",
-				"enabled": true
-			}
-
-
-
+The server should automatically add the right lines of code to the server.config.
 
 ENJOY
