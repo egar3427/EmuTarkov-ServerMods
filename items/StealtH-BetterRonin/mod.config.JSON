@@ -1,0 +1,23 @@
+{
+	"name": "BetterRonin",
+	"author": "StealtH",
+	"description": "Makes the Ronin Helmet a lot better as it's currently shit",
+	"license": "None",
+	"releases": [
+		{
+			"version": "1.0.0",
+			"changelog": [
+				"Initial release.",
+				"Made the Ronin Armour Class 6",
+				"Made it so Headphones work with the Ronin",
+				"Removed Ergo penalties aswell as speed pen and mouse pen"
+			]
+		}
+	],
+	"dependencies": [],
+	"files": {
+		"items": {
+    "5b4329f05acfc47a86086aa1": "user/mods/StealtH-BetterRonin/db/items/5b4329f05acfc47a86086aa1.json"
+}
+	}
+}

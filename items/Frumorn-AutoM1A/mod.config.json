@@ -1,0 +1,20 @@
+{
+	"name": "AutoM1A",
+	"author": "Frumorn",
+	"description": "Full auto M14, very rad",
+	"license": "None",
+	"releases": [
+		{
+			"version": "1.0.0",
+			"changelog": [
+				"Release"
+			]
+		}
+	],
+	"dependencies": [],
+	"files": {
+		"items": {
+			"5aafa857e5b5b00018480968": "user/mods/Frumorn-AutoM1A/db/items/5aafa857e5b5b00018480968.json"
+		}
+	}
+}
