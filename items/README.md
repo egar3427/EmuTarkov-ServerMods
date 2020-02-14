@@ -60,3 +60,6 @@ Basically makes the PMAG compatible with the AS VAL.
 
 ### Blyto-FullFastV1 - Made by Blyto
 Allows user to attach all Ops-Core Fast MT Accessories
+
+### Vengeance-T5000127x108-1.0.0 - Made by Vengeance
+Stand alone T-5000 with 12.7X108mm 
