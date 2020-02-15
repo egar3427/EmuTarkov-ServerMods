@@ -89,9 +89,9 @@
 		"Durability": 9001,
 		"MaxDurability": 9001,
 		"armorClass": "10",
-		"speedPenaltyPercent": 25,
-		"mousePenalty": 15,
-		"weaponErgonomicPenalty": 10,
+		"speedPenaltyPercent": 50,
+		"mousePenalty": 50,
+		"weaponErgonomicPenalty": 50,
 		"armorZone": [
 			"Head"
 		],

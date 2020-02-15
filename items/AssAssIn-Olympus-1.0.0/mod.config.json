@@ -1,11 +1,10 @@
 {
 	"name": "Olympus",
 	"author": "AssAssIn",
-	"license": "None",
 	"version": "1.0.0",
+	"license": "MIT",
 	"dependencies": {},
-    "res": {},
-    "src":{},
+	
 	"db": {
 		"items": {
 			"apollosCMS":      "db/items/apollosCMS.json",
@@ -43,6 +42,8 @@
 			"5c488a752e221602b412af63": "db/items/5c488a752e221602b412af63.json",
 			"5d43021ca4b9362eab4b5e25": "db/items/5d43021ca4b9362eab4b5e25.json",
 			"5447a9cd4bdc2dbd208b4567": "db/items/5447a9cd4bdc2dbd208b4567.json",
+			"5ac66d015acfc400180ae6e4": "db/items/5ac66d015acfc400180ae6e4.json",
+			"5ac66cb05acfc40198510a10": "db/items/5ac66cb05acfc40198510a10.json",
 
 			"herc918":                  "db/items/herc918.json",
 			"57d14d2524597714373db789": "db/items/57d14d2524597714373db789.json",
@@ -374,6 +375,52 @@
 					"hercMP5":         "db/assort/ragfair/items/hercMP5.json",
 					"hercP90":         "db/assort/ragfair/items/hercP90.json",
 					"hercVPO":         "db/assort/ragfair/items/hercVPO.json"
+				}
+			}
+		},
+		"locales": {
+			"en": {
+				"templates": {
+					"apollosCMS":      "db/locales/en/templates/apollosCMS.json",
+					"apollosPropital": "db/locales/en/templates/apollosPropital.json",
+					"atlasSatchel":    "db/locales/en/templates/atlasSatchel.json",
+					"armorOfAres":     "db/locales/en/templates/armorOfAres.json",
+					"helmetOfHermes":  "db/locales/en/templates/helmetOfHermes.json",
+					"herc12ga":        "db/locales/en/templates/herc12ga.json",
+					"herc12gaSaiga":   "db/locales/en/templates/herc12gaSaiga.json",
+					"herc20ga":        "db/locales/en/templates/herc20ga.json",
+					"herc545":         "db/locales/en/templates/herc545.json",
+					"herc556":         "db/locales/en/templates/herc556.json",
+					"herc918":         "db/locales/en/templates/herc918.json",
+					"hercPM":          "db/locales/en/templates/hercPM.json",
+					"hercAPS":         "db/locales/en/templates/hercAPS.json",
+					"hercMP9":         "db/locales/en/templates/hercMP9.json",
+					"hercMPX":         "db/locales/en/templates/hercMPX.json",
+					"hercPP19":        "db/locales/en/templates/hercPP19.json",
+					"hercP226r":       "db/locales/en/templates/hercP226r.json",
+					"hercGratch":      "db/locales/en/templates/hercGratch.json",
+					"hercGlock":       "db/locales/en/templates/hercGlock.json",
+					"hercM9A3":        "db/locales/en/templates/hercM9A3.json",
+					"herc921":         "db/locales/en/templates/herc921.json",
+					"herc939":         "db/locales/en/templates/herc939.json",
+					"herc4630":        "db/locales/en/templates/herc4630.json",
+					"herc5728":        "db/locales/en/templates/herc5728.json",
+					"herc76225":       "db/locales/en/templates/herc76225.json",
+					"herc76239":       "db/locales/en/templates/herc76239.json",
+					"hercSA58":        "db/locales/en/templates/hercSA58.json",
+					"hercDVL":         "db/locales/en/templates/hercDVL.json",
+					"hercM700":        "db/locales/en/templates/hercM700.json",
+					"hercT5000":       "db/locales/en/templates/hercT5000.json",
+					"hercM1A":         "db/locales/en/templates/hercM1A.json",
+					"hercSR25":        "db/locales/en/templates/hercSR25.json",
+					"herc76251":       "db/locales/en/templates/herc76251.json",
+					"herc76254":       "db/locales/en/templates/herc76254.json",
+					"hercAsh12":       "db/locales/en/templates/hercAsh12.json",
+					"hercMosin":       "db/locales/en/templates/hercMosin.json",
+					"hercMosinAngel":  "db/locales/en/templates/hercMosinAngel.json",
+					"hercMP5":         "db/locales/en/templates/hercMP5.json",
+					"hercP90":         "db/locales/en/templates/hercP90.json",
+					"hercVPO":         "db/locales/en/templates/hercVPO.json"
 				}
 			}
 		}
